@@ -36,7 +36,7 @@ public class Application_Test {
     }
 
     @Test
-    private void doSomething(){
+    public void doSomething(){
         System.out.println("doing something");
     }
 
