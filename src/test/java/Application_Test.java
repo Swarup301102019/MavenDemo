@@ -30,6 +30,17 @@ public class Application_Test {
     public void test6(){
         System.out.println("running a test6");
     }
+    @Test
+    public void test7(){
+        System.out.println("running a test7");
+    }
+
+    @Test
+    private void doSomething(){
+        System.out.println("doing something");
+    }
+
+
 
 
 
