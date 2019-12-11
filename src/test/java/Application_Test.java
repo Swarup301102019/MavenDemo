@@ -26,6 +26,12 @@ public class Application_Test {
         System.out.println("running a test5");
     }
 
+    @Test
+    public void test6(){
+        System.out.println("running a test6");
+    }
+
+
 
 
 }
